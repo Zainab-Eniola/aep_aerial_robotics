@@ -1,0 +1,19 @@
+"Reckoning" is a way of calculating something, a view point or status.
+
+Dead reckoning is the method used to calculate the current position of a moving object by using previously determined position (or last known location),  and incorporating estimates of speed, direction, and elapsed time.
+
+HOW DEAD RECKONING WORKS
+1. Say you start from a known fixed point on the map, keep track of heading and speed (monitoring direction and speed over a period of time) the distance can be calculated.
+2. Three accelerometers measure the changes in speed and motion(acceleration/deceleration) across three dimensions. The accelerometers must overcome the gravity trap (sometimes upward tilt causes gravity to pull backward on the sensors, tricking the sensors to confuse tilt with upward acceleration).
+3. Gyroscopes use spinning wheels to maintain a fixed spatial orientation and stabilize the internal senser platform.
+4. Three gimbals: A mechanical ring setup allowing the center platform to rotate freely, the outer gimbal handles roll (side-to-side tilt), the middle gimbal handles pitch (up-and-down nose tilt), and lastly, the inner circle handles yaw (left or right turn). The gimbals must remain perfectly flat relative to the horizon regardless of how the aircraft maneuvers. 
+
+Some of the advantages include; 
+1. Independence: Some of the devices that enable this technology are completely independent of the physical/electromagnetic world. They do not need radio towers, or signals).This makes it reliable for GPS-Denied environments.
+2. Immunity to jamming.
+3. High update rates.
+
+References: 
+[http://www.youtube.com/watch?v=Pq_PDaYclAw](http://www.youtube.com/watch?v=Pq_PDaYclAw&utm_source=gemini)
+
+[http://www.youtube.com/watch?v=ZQ_uoyahiwI](http://www.youtube.com/watch?v=ZQ_uoyahiwI&utm_source=gemini)
